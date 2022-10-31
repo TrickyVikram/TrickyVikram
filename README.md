@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact. **I think I am funny .**
 
+[![@ashishkr710's Holopin board](https://www.holopin.io/userbadge/cl9x29qqm123408l74ljx4ozc)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vikramkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikramkr" height="30" width="40" /></a>
