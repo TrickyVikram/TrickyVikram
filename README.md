@@ -21,8 +21,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/HMS_WebSite](https://github.com/TrickyVikram/HMS_WebSite)
 
 - ⚡ Fun fact. **I think I am funny .**
+<img src="https://www.holopin.io/@trickyvikram?verified=true" alt=“logo”>
 
-[![@ashishkr710's Holopin board](https://www.holopin.io/userbadge/cl9x29qqm123408l74ljx4ozc)
 
 
 <h3 align="left">Connect with me:</h3>
