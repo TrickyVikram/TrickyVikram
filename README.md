@@ -22,17 +22,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/Selflearning](https://github.com/TrickyVikram/Selflearning)
 
 - ⚡ Fun fact. **I think I am funny .**
-<h4>
-  
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75" alt=“logo”>
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75" alt=“logo”>
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75" alt=“logo”>
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75" alt=“logo”>
-  
-  <img src="[img_girl.jpg](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75)" alt="Girl in a jacket" width="500" height="500">
-  
-</h4>
-
+[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
