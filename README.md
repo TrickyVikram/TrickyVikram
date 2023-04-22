@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **NodeJs,django,Mongodb**
 
-- 🔭 I’m currently working on [HMS_WebSite](https://github.com/TrickyVikram/HMS_WebSite)
+- 🔭 I’m currently working on [explore new things](https://github.com/TrickyVikram/Selflearning)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/HMS_WebSite](https://github.com/TrickyVikram/HMS_WebSite)
+- 👨‍💻 All of my projects are available at [https://github.com/TrickyVikram/Selflearning](https://github.com/TrickyVikram/Selflearning)
 
 - ⚡ Fun fact. **I think I am funny .**
 <img src="https://www.holopin.io/@trickyvikram?verified=true" alt=“logo”>
