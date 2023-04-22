@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Vikram Kumar</h2>
 <h3 align="center">I am developer</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=“logo”>
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=“logo”> -->
 
 
 
