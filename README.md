@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Free_learning_for-engineerig](https://github.com/TrickyVikram/Free_learning_for-engineerig)
 
 - 🌱 I’m currently learning **Spring, Hibernate, Spring Boot ,React js ,Node js**
-- 💬 Ask me about **Java , C , HTML , CSS , JavaScript 
+- 💬 Ask me about **Java,JavaScript,C,HTML,CSS**
 
 - 🔭 I’m currently working on [explore new things](https://github.com/TrickyVikram/Selflearning)
 
