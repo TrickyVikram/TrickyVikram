@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trickyvikram" alt="trickyvikram" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vikramkr" target="blank"><img src="https://img.shields.io/twitter/follow/vikramkr?logo=twitter&style=for-the-badge" alt="vikramkr" /></a> </p>
 
