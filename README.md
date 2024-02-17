@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">I am full stack developer .</h3>
 
+[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
+
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=“logo”>
 
 
