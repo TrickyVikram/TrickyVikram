@@ -6,9 +6,9 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=“logo”>
 [![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
+<!-- [![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
 [![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
-[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
-[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
+[![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram) -->
 
 
 
