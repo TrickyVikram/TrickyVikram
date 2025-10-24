@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trickyvikram&show_icons=true&locale=en" alt="trickyvikram" /></p>
 
-<p align="center">
+<p >
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=TrickyVikram" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrickyVikram&theme=tokyonight" alt="TrickyVikram's GitHub Streak" />
   </a>
