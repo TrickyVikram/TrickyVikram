@@ -10,7 +10,7 @@
 
 [![An image of @trickyvikram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trickyvikram)](https://holopin.io/@trickyvikram)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrickyVikram&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickyvikram&label=Profile%20views&color=0e75b6&style=flat" alt="trickyvikram" /> </p>
