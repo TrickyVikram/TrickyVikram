@@ -38,5 +38,5 @@
 
 mmmmmm
 <p >
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TrickyVikram&theme=dark&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=gradient&properties=border" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=TrickyVikram&theme=dark&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=gradient&properties=border"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TrickyVikram&theme=dark&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=gradient&properties=border" /></a>
 </p>
